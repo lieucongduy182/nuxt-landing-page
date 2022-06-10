@@ -1,4 +1,4 @@
-# client
+# Landing-page
 
 ## Build Setup
 
